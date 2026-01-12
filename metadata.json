@@ -1,0 +1,7 @@
+{
+  "name": "SyncZone MVP",
+  "description": "A smart cross-timezone meeting scheduler that uses AI to find the perfect window for remote teams, highlighting working hours and avoiding sleep interruptions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
